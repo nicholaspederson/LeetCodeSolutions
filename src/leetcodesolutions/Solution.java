@@ -1,5 +1,5 @@
 package leetcodesolutions;
-
+// This is a solution of reverse integer.  Developed in class
 public class Solution {
 
     static public int reverse(int x) {
